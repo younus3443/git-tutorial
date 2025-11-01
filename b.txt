@@ -1,2 +1,2 @@
-this is about b file
+this is about b file contains data
 
